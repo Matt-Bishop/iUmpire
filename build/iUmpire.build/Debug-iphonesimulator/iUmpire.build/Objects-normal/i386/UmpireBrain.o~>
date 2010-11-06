@@ -1,0 +1,65 @@
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:9:25: error: iUmpireBrain.h: No such file or directory
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:16: warning: cannot find interface declaration for 'UmpireBrain'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain setStrikeCount:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:17: error: 'strikeCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:17: error: (Each undeclared identifier is reported only once
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:17: error: for each function it appears in.)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:20: error: 'ballCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:21: error: 'foulCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:22: warning: implicit declaration of function 'setOutCount'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain setBallCount:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:27: error: 'ballCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:30: error: 'strikeCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:31: error: 'foulCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain setOutCount:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:36: error: 'outCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:39: error: 'top' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:43: warning: implicit declaration of function 'setInningCount'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain setFoulCount:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:50: error: 'foulCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:51: error: 'strikeCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:55: warning: implicit declaration of function 'setStrikeCount'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain setHomeRunCount:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:60: error: 'homeRunCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain setAwayRunCount:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:64: error: 'awayRunCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain setInningCount:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:68: error: 'inningCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getStrikeCount]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:73: error: 'strikeCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:74: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getBallCount]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:77: error: 'ballCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:78: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getOutCount]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:81: error: 'outCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:82: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getFoulCount]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:85: error: 'foulCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:86: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getHomeRunCount]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:89: error: 'homeRunCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:90: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getAwayRunCount]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:93: error: 'awayRunCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:94: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getInningCount]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:97: error: 'inningCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:98: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain getTop]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:101: error: 'top' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:102: warning: control reaches end of non-void function
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m: In function '-[UmpireBrain performOperation:]':
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:107: warning: implicit declaration of function 'setBallCount'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:108: error: 'ballCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:112: error: 'strikeCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:116: error: 'outCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:119: warning: implicit declaration of function 'setFoulCount'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:120: error: 'foulCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:123: warning: implicit declaration of function 'setHomeRunCount'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:124: error: 'homeRunCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:127: warning: implicit declaration of function 'setAwayRunCount'
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:128: error: 'awayRunCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:137: error: 'inningCount' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:138: error: 'top' undeclared (first use in this function)
+/Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m:142: warning: control reaches end of non-void function

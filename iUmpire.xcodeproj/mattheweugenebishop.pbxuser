@@ -1,0 +1,198 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* iUmpireAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1643}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iUmpire */ = {
+		activeExec = 0;
+		executables = (
+			7CFD169712851C7300AB5AFF /* iUmpire */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* iUmpireViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {903, 562}}";
+			sepNavSelRange = "{454, 20}";
+			sepNavVisRange = "{0, 530}";
+			sepNavWindowFrame = "{{72, 855}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* iUmpireViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {903, 1833}}";
+			sepNavSelRange = "{3864, 0}";
+			sepNavVisRange = "{0, 1584}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7CFD169712851C7300AB5AFF /* iUmpire */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iUmpire */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iUmpire */,
+		);
+		codeSenseManager = 7CFD16A712851C7900AB5AFF /* Code sense */;
+		executables = (
+			7CFD169712851C7300AB5AFF /* iUmpire */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					725,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310773713;
+			PBXWorkspaceStateSaveDate = 310773713;
+		};
+		perUserProjectItems = {
+			7C6C213412860B2B00CB9CE2 /* PBXTextBookmark */ = 7C6C213412860B2B00CB9CE2 /* PBXTextBookmark */;
+			7C6C213512860B2B00CB9CE2 /* PBXTextBookmark */ = 7C6C213512860B2B00CB9CE2 /* PBXTextBookmark */;
+			7CC124931285DCA00070C184 /* PBXTextBookmark */ = 7CC124931285DCA00070C184 /* PBXTextBookmark */;
+			7CC124A61285DF2B0070C184 /* PBXTextBookmark */ = 7CC124A61285DF2B0070C184 /* PBXTextBookmark */;
+			7CC124B31285E00A0070C184 /* PBXTextBookmark */ = 7CC124B31285E00A0070C184 /* PBXTextBookmark */;
+			7CFD1712128556EC00AB5AFF /* PBXTextBookmark */ = 7CFD1712128556EC00AB5AFF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7CFD16A612851C7900AB5AFF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7C6C213412860B2B00CB9CE2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* iUmpireViewController.m */;
+		name = "iUmpireViewController.m: 86";
+		rLen = 0;
+		rLoc = 3864;
+		rType = 0;
+		vrLen = 1584;
+		vrLoc = 0;
+	};
+	7C6C213512860B2B00CB9CE2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7CFD16AB12851D6800AB5AFF /* iUmpireBrain.m */;
+		name = "iUmpireBrain.m: 145";
+		rLen = 0;
+		rLoc = 2113;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 0;
+	};
+	7CC124931285DCA00070C184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7CFD16AA12851D6800AB5AFF /* iUmpireBrain.h */;
+		name = "iUmpireBrain.h: 21";
+		rLen = 0;
+		rLoc = 355;
+		rType = 0;
+		vrLen = 749;
+		vrLoc = 0;
+	};
+	7CC124A61285DF2B0070C184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* iUmpireViewController.h */;
+		name = "iUmpireViewController.h: 20";
+		rLen = 20;
+		rLoc = 454;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 0;
+	};
+	7CC124B31285E00A0070C184 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7CFD16AB12851D6800AB5AFF /* iUmpireBrain.m */;
+		name = "iUmpireBrain.m: 145";
+		rLen = 0;
+		rLoc = 2113;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 1374;
+	};
+	7CFD169712851C7300AB5AFF /* iUmpire */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iUmpire;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7CFD16A612851C7900AB5AFF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7CFD16A712851C7900AB5AFF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7CFD16AA12851D6800AB5AFF /* iUmpireBrain.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {903, 572}}";
+			sepNavSelRange = "{355, 0}";
+			sepNavVisRange = "{0, 749}";
+		};
+	};
+	7CFD16AB12851D6800AB5AFF /* iUmpireBrain.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {903, 2002}}";
+			sepNavSelRange = "{2113, 0}";
+			sepNavVisRange = "{0, 618}";
+		};
+	};
+	7CFD1712128556EC00AB5AFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iUmpireAppDelegate.m */;
+		name = "iUmpireAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1643;
+		vrLoc = 0;
+	};
+}
