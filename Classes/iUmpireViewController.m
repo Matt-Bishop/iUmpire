@@ -26,6 +26,8 @@
 	else if ([operation isEqual: @"Strike"]){
 		[strikes setText:[NSString stringWithFormat:@"%d",[[self brain] performOperation:operation]]];
 		[outs setText:[NSString stringWithFormat:@"%i",[[self brain] getOutCount]]];
+		[fouls setText:[NSString stringWithFormat:@"%i",[[self brain] getFoulCount]]];
+		[balls setText:[NSString stringWithFormat:@"%i",[[self brain] getBallCount]]];
 		if ([[self brain] getTop]){
 			[innings setText:[NSString stringWithFormat:@"Top %i",[[self brain] getInningCount]]]; 
 		}

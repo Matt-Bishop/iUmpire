@@ -1,7 +1,7 @@
 TiUmpire
 v7
 r0
-t310773724.337606
+t310963066.481854
 cCheck dependencies
 cProcessInfoPlistFile /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/Info.plist iUmpire-Info.plist
 cCompileXIB /Users/mattheweugenebishop/Documents/iUmpire/MainWindow.xib
@@ -90,9 +90,9 @@ i<UIKit/UIKit.h>
 i"iUmpireBrain.h"
 
 N/Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m
-c000000004CD5A79200000000000013F7
-t1289070482
-s5111
+c000000004CD8B3F90000000000001499
+t1289270265
+s5273
 i"iUmpireViewController.h"
 
 N/Users/mattheweugenebishop/Documents/iUmpire/MainWindow.xib
@@ -113,11 +113,11 @@ s208
 i"UmpireBrain.h"
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app
-t1289070532
+t1289270266
 s238
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app.dSYM
-t1289070507
+t1289270266
 s102
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/Info.plist
@@ -133,12 +133,12 @@ t1289021432
 s8
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire
-t1289070507
+t1289270266
 s29700
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpireViewController.nib
-t1289070532
-s7320
+t1289270086
+s7375
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/UmpireBrain.o
 t1289031409
@@ -158,8 +158,8 @@ t1289070507
 s16788
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpireViewController.o
-t1289070482
-s49512
+t1289270266
+s50084
 
 N/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/main.o
 t1289021434
@@ -172,9 +172,9 @@ s749
 i<Foundation/Foundation.h>
 
 N/Users/mattheweugenebishop/Documents/iUmpire/iUmpireViewController.xib
-c000000004CD5A7BE000000000000BBC3
-t1289070526
-s48067
+c000000004CD8B340000000000000BBC6
+t1289270080
+s48070
 
 N/Users/mattheweugenebishop/Documents/iUmpire/iUmpire_Prefix.pch
 c000000004CD4E4F300000000000000B7
@@ -200,7 +200,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies310773724#310773724#0(0"0(0#1#0"8247620834010738688#0"0#
+lSLF07#2@18"Check dependencies310963065#310963065#0(0"0(0#1#0"8611701664#0"0#
 
 CCompileC build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/UmpireBrain.o /Users/mattheweugenebishop/Documents/iUmpire/Classes/../UmpireBrain.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s310724209.171994
@@ -257,8 +257,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@78"Compile /Users/mattheweugenebishop/Documents/iUmpire/Classes/../iUmpireBrain.m310763307#310763307#0(0"0(0#0#70"/Users/mattheweugenebishop/Documents/iUmpire/Classes/../iUmpireBrain.m8615010368#2007"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-generated-files.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-own-target-headers.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-all-target-headers.hmap -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-project-headers.hmap -F/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -I/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/include -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources/i386 -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources -include /var/folders/M9/M9Te58jYEVqd1dcm3BGlOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iUmpire_Prefix-ctunbgokgotllvatupvzorowqxjd/iUmpire_Prefix.pch -c /Users/mattheweugenebishop/Documents/iUmpire/Classes/../iUmpireBrain.m -o /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpireBrain.o0#
 
 CCompileC build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpireViewController.o /Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s310763282.215120
-e310763282.433771
+s310963065.964618
+e310963066.106922
 r1
 xCompileC
 xbuild/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpireViewController.o
@@ -267,7 +267,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@84"Compile /Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m310763282#310763282#0(0"0(0#0#76"/Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m8615146112#2022"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-generated-files.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-own-target-headers.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-all-target-headers.hmap -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-project-headers.hmap -F/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -I/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/include -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources/i386 -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources -include /var/folders/M9/M9Te58jYEVqd1dcm3BGlOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iUmpire_Prefix-ctunbgokgotllvatupvzorowqxjd/iUmpire_Prefix.pch -c /Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m -o /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpireViewController.o0#
+lSLF07#2@84"Compile /Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m310963065#310963066#0(0"0(0#0#76"/Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m8612081376#2022"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-generated-files.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-own-target-headers.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-all-target-headers.hmap -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-project-headers.hmap -F/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -I/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/include -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources/i386 -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources -include /var/folders/M9/M9Te58jYEVqd1dcm3BGlOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iUmpire_Prefix-ctunbgokgotllvatupvzorowqxjd/iUmpire_Prefix.pch -c /Users/mattheweugenebishop/Documents/iUmpire/Classes/iUmpireViewController.m -o /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpireViewController.o0#
 
 CCompileC build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/main.o /Users/mattheweugenebishop/Documents/iUmpire/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s310714234.470824
@@ -291,31 +291,31 @@ x/Users/mattheweugenebishop/Documents/iUmpire/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib310714232#310714233#0(0"0(0#0#59"/Users/mattheweugenebishop/Documents/iUmpire/MainWindow.xib8612745056#588"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/MainWindow.nib /Users/mattheweugenebishop/Documents/iUmpire/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CCompileXIB /Users/mattheweugenebishop/Documents/iUmpire/iUmpireViewController.xib
-s310763331.799058
-e310763332.348738
+s310962885.843528
+e310962886.407824
 r1
 xCompileXIB
 x/Users/mattheweugenebishop/Documents/iUmpire/iUmpireViewController.xib
-lSLF07#2@36"CompileXIB iUmpireViewController.xib310763331#310763332#0(0"0(0#0#70"/Users/mattheweugenebishop/Documents/iUmpire/iUmpireViewController.xib8614676128#610"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpireViewController.nib /Users/mattheweugenebishop/Documents/iUmpire/iUmpireViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+lSLF07#2@36"CompileXIB iUmpireViewController.xib310962885#310962886#0(0"0(0#0#70"/Users/mattheweugenebishop/Documents/iUmpire/iUmpireViewController.xib8604091584#610"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpireViewController.nib /Users/mattheweugenebishop/Documents/iUmpire/iUmpireViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
 
 CGenerateDSYMFile /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app.dSYM /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire
-s310763307.570913
-e310763307.662100
+s310963066.351728
+e310963066.479467
 r1
 xGenerateDSYMFile
 x/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app.dSYM
 x/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/iUmpire.app.dSYM build/Debug-iphonesimulator/iUmpire.app/iUmpire310763307#310763307#0(0"0(0#0#92"/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire8605014272#401"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire -o /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app.dSYM0#
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/iUmpire.app.dSYM build/Debug-iphonesimulator/iUmpire.app/iUmpire310963066#310963066#0(0"0(0#0#92"/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire8603478240#401"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire -o /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app.dSYM0#
 
 CLd /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire normal i386
-s310763307.501362
-e310763307.570831
+s310963066.107002
+e310963066.351644
 r1
 xLd
 x/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire
 xnormal
 xi386
-lSLF07#2@97"Link /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire310763307#310763307#0(0"0(0#0#0"8614383488#930"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -F/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -filelist /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpire.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire0#
+lSLF07#2@97"Link /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire310963066#310963066#0(0"0(0#0#0"8603371488#930"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -F/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -filelist /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/Objects-normal/i386/iUmpire.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/iUmpire0#
 
 CProcessInfoPlistFile /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app/Info.plist iUmpire-Info.plist
 s310714232.757780
@@ -340,10 +340,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@29"Precompile iUmpire_Prefix.pch310714233#310714234#0(0"0(0#0#63"/Users/mattheweugenebishop/Documents/iUmpire/iUmpire_Prefix.pch8613051040#1866"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-generated-files.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-own-target-headers.hmap -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-all-target-headers.hmap -iquote /Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/iUmpire-project-headers.hmap -F/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator -I/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/include -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources/i386 -I/Users/mattheweugenebishop/Documents/iUmpire/build/iUmpire.build/Debug-iphonesimulator/iUmpire.build/DerivedSources -c /Users/mattheweugenebishop/Documents/iUmpire/iUmpire_Prefix.pch -o /var/folders/M9/M9Te58jYEVqd1dcm3BGlOk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iUmpire_Prefix-ctunbgokgotllvatupvzorowqxjd/iUmpire_Prefix.pch.gch0#
 
 CTouch /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app
-s310763332.349567
-e310763332.351854
+s310963066.479537
+e310963066.481808
 r1
 xTouch
 x/Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app
-lSLF07#2@90"Touch /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app310763332#310763332#0(0"0(0#0#0"8614907904#290"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app0#
+lSLF07#2@90"Touch /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app310963066#310963066#0(0"0(0#0#0"8611888896#290"    cd /Users/mattheweugenebishop/Documents/iUmpire    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mattheweugenebishop/Documents/iUmpire/build/Debug-iphonesimulator/iUmpire.app0#
 
